@@ -1,4 +1,3 @@
-
 export const CAMPSITES = [
   {
     id: 0,
